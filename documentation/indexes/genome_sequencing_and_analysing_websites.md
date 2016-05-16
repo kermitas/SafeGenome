@@ -4,8 +4,8 @@ I encourage you to send me updates/fixes via [pull requests](https://help.github
 
 (This index was initially created for "[Index of genome sequencing and genome analysing websites](http://scalaakka.blogspot.com/2016/05/index-of-genome-sequencing-and-genome.html)" post which is a part of [SafeGenome series](http://scalaakka.blogspot.com/search/label/SafeGenome).)
 
-| website | company | sequencing | analysing | price | additional info |
-| --- | --- | --- | --- | --- | --- |
+| website | company | is sequencing | is analysing | price | additional info |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | [Your Coloured Genome](https://genoomy.com/navbar/howitworks/) | [genoomy.com](http://www.genoomy.com) | no | yes | 19 USD | |
 | [23andMe](https://www.23andme.com/) | [23andme.com](http://www.23andme.com) | yes | yes | 199 USD | |
 | [Ancestry](http://dna.ancestry.com/) | [ancestry.com](http://www.ancestry.com) | yes | yes | 135 EUR | |
@@ -17,4 +17,3 @@ I encourage you to send me updates/fixes via [pull requests](https://help.github
 | [Personal genetic analysis](http://www.geneplanet.com/personal-genetic-analysis.html) | [geneplanet.com](http://www.geneplanet.com) | yes | yes | 499 EUR | |
 | [Veritas myGenome (Whole Genome Sequencing)](https://www.veritasgenetics.com/mygenome#sec-2) | [veritasgenetics.com](http://www.veritasgenetics.com) | yes | yes | 999 USD | |
 | [myBRCA](https://www.veritasgenetics.com/mybrca#sec-1) | [veritasgenetics.com](http://www.veritasgenetics.com) | yes | yes | 199 USD | |
-
