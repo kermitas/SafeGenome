@@ -17,3 +17,4 @@ I encourage you to send me updates/fixes via [pull requests](https://help.github
 | [Personal genetic analysis](http://www.geneplanet.com/personal-genetic-analysis.html) | [geneplanet.com](http://www.geneplanet.com) | yes | yes | 499 EUR | |
 | [Veritas myGenome (Whole Genome Sequencing)](https://www.veritasgenetics.com/mygenome#sec-2) | [veritasgenetics.com](http://www.veritasgenetics.com) | yes | yes | 999 USD | |
 | [myBRCA](https://www.veritasgenetics.com/mybrca#sec-1) | [veritasgenetics.com](http://www.veritasgenetics.com) | yes | yes | 199 USD | |
+| [Full DNA Sequencing](http://www.suregenomics.com/contact/pre-register/) | [suregenomics.com](http://www.suregenomics.com) | yes | yes | 2500 USD | |
