@@ -14,4 +14,4 @@ I encourage you to send me updates/fixes via [pull requests](https://help.github
 | [Gene by Gene @ genebygene.com](https://www.genebygene.com) (FASTQ, BAM, VCF files) | yes | yes | 1295 USD | more of their products [here](https://www.genebygene.com/pages/research?goto=exome-sequencing) |
 | [Personal genetic analysis @ geneplanet.com](http://www.geneplanet.com/personal-genetic-analysis.html) | yes | yes | 499 EUR | |
 
-This index was initially created for "[Indexes of genome sequencing and genome analysing websites](http://scalaakka.blogspot.com/2016/05/indexes-of-genome-sequencing-and-genome.html)" post at my blog.
+This index was initially created for "[Index of genome sequencing and genome analysing websites](http://scalaakka.blogspot.com/2016/05/index-of-genome-sequencing-and-genome.html)" post at my blog.
