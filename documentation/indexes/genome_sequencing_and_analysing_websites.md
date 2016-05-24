@@ -2,7 +2,7 @@
 
 This work-in-progress index was created for "[Index of genome sequencing and genome analysing websites](http://scalaakka.blogspot.com/2016/05/index-of-genome-sequencing-and-genome.html)" blog post which is a part of [SafeGenome idea](http://scalaakka.blogspot.com/search/label/SafeGenome).
 
-Thanks in advance for your help of keeping this index always up to date. Please send updates/fixes via [pull requests](https://help.github.com/articles/using-pull-requests/) or just drop me an email, [stanek.artur@gmail.com](mailto:stanek.artur@gmail.com).
+Thanks in advance for helping me to keep this index always up to date. Please send updates/fixes via [pull requests](https://help.github.com/articles/using-pull-requests/) or just drop me an email, [stanek.artur@gmail.com](mailto:stanek.artur@gmail.com).
 
 | website | company | is sequencing | is analysing | price | additional info |
 | :---: | :---: | :---: | :---: | :---: | :---: |
