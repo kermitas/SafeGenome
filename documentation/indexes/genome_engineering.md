@@ -13,7 +13,7 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 - genetic diseases risk of our children,
 - products on demand like [fuel](https://www.technologyreview.com/s/519791/genetically-modified-bacteria-produce-50-percent-more-fuel/),
 - crimes, [genorrism](http://scalaakka.blogspot.com/2016/05/genorrism-danger-that-is-closer-each-day.html), creating biological traces that points to innocent person,
-- [personalized medicine](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3128266/),
+- [personalized medicine](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3128266/), [preventive healthcare](https://en.wikipedia.org/wiki/Preventive_healthcare),
 - ...
 
 ![SafeGenome logo](https://raw.githubusercontent.com/kermitas/SafeGenome/master/documentation/media/logo/SafeGenome.png)
