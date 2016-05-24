@@ -19,3 +19,5 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 | [myBRCA](https://www.veritasgenetics.com/mybrca#sec-1) | [veritasgenetics.com](http://www.veritasgenetics.com) | yes | yes | 199 USD | |
 | [Full DNA Sequencing](http://www.suregenomics.com/contact/pre-register/) | [suregenomics.com](http://www.suregenomics.com) | yes | yes | 2500 USD | |
 | [Next Generation Sequencing](http://www.quickbiology.com/ngs-services/quick-discovery) | [quickbiology.com](http://www.quickbiology.com) | yes | yes | 280-2850 USD | |
+
+![SafeGenome logo](https://raw.githubusercontent.com/kermitas/SafeGenome/master/documentation/media/logo/SafeGenome.png)
