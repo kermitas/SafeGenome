@@ -1,4 +1,4 @@
-#Genome sequencing and analysing websites
+#[Genome](https://en.wikipedia.org/wiki/Genome) sequencing and analysing websites
 
 This work-in-progress index was created for "[Index of genome sequencing and genome analysing websites](http://scalaakka.blogspot.com/2016/05/index-of-genome-sequencing-and-genome.html)" blog post which is a part of [SafeGenome idea](http://scalaakka.blogspot.com/search/label/SafeGenome).
 
