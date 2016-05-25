@@ -1,4 +1,4 @@
-#[Genome](https://en.wikipedia.org/wiki/Genome) and/or [DNA](https://en.wikipedia.org/wiki/DNA) [analysis](https://en.wikipedia.org/wiki/Genetic_analysis) / [engineering](https://en.wikipedia.org/wiki/Genetic_engineering) / manipulating use cases
+#Index of [genome](https://en.wikipedia.org/wiki/Genome) use cases
 
 This work-in-progress index was created for "[Index of genome use cases](http://scalaakka.blogspot.com/2016/05/what-we-can-do-with-our-genome.html)" blog post which is a part of [SafeGenome idea](http://scalaakka.blogspot.com/search/label/SafeGenome).
 
