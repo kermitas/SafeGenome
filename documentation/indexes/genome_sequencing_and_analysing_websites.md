@@ -4,7 +4,7 @@ This work-in-progress index was created for "[Index of genome sequencing and gen
 
 Thanks in advance for helping me to keep this index always up to date. Please send updates/fixes via [pull requests](https://help.github.com/articles/using-pull-requests/) or just drop me an email, [stanek.artur@gmail.com](mailto:stanek.artur@gmail.com).
 
-| website | company | [NGS sequencing](https://en.wikipedia.org/wiki/DNA_sequencing#Next-generation_methods) / other method | provide genome analysis | price | additional info |
+| website | company | [whole genome sequencing](https://en.wikipedia.org/wiki/Whole_genome_sequencing) / other method | provide genome analysis | price | additional info |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Gene by Gene](https://www.genebygene.com) (FASTQ file) | [genebygene.com](http://www.genebygene.com) | yes/no | yes | 1095 USD | more of their products [here](https://www.genebygene.com/pages/research?goto=exome-sequencing) |
 | [Gene by Gene](https://www.genebygene.com) (FASTQ, BAM, VCF files) | [genebygene.com](http://www.genebygene.com) | yes/no | yes | 1295 USD | more of their products [here](https://www.genebygene.com/pages/research?goto=exome-sequencing) |
