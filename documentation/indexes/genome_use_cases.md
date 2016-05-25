@@ -1,6 +1,6 @@
 #[Genome](https://en.wikipedia.org/wiki/Genome) and/or [DNA](https://en.wikipedia.org/wiki/DNA) [analysis](https://en.wikipedia.org/wiki/Genetic_analysis) / [engineering](https://en.wikipedia.org/wiki/Genetic_engineering) / manipulating use cases
 
-This work-in-progress index was created for "[Genome use cases](http://scalaakka.blogspot.com/2016/05/what-we-can-do-with-our-genome.html)" blog post which is a part of [SafeGenome idea](http://scalaakka.blogspot.com/search/label/SafeGenome).
+This work-in-progress index was created for "[Index of genome use cases](http://scalaakka.blogspot.com/2016/05/what-we-can-do-with-our-genome.html)" blog post which is a part of [SafeGenome idea](http://scalaakka.blogspot.com/search/label/SafeGenome).
 
 Thanks in advance for helping me to keep this index always up to date. Please send updates/fixes via [pull requests](https://help.github.com/articles/using-pull-requests/) or just drop me an email, [stanek.artur@gmail.com](mailto:stanek.artur@gmail.com).
 
