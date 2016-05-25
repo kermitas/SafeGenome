@@ -15,7 +15,7 @@ Thanks in advance for helping me to keep this list always up to date. Please sen
     - *traits and talents*: eye colour, episodic memory, muscle structure, nicotine addiction, pain sensitivity, malaria resistance, norovirus resistance, alcohol metabolism, caffeine metabolism, lactose intolerance, baldness, earwax type, learning from mistakes, bitter taste perception,
     - *medicament response*: clopidogrel, metformin, omeprazole, perindopril, statins, warfarin,
 - genetic diseases risk of our children,
-- products on demand like a [fuel](https://www.technologyreview.com/s/519791/genetically-modified-bacteria-produce-50-percent-more-fuel/),
+- products on demand (for example: a [fuel](https://www.technologyreview.com/s/519791/genetically-modified-bacteria-produce-50-percent-more-fuel/)),
 - [criminology](http://www.exploredna.co.uk/dna-and-criminology.html),
 - crimes, [genorrism](http://scalaakka.blogspot.com/2016/05/genorrism-danger-that-is-closer-each-day.html), creating biological traces that points to innocent person,
 - [personalized medicine](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3128266/), [preventive healthcare](https://en.wikipedia.org/wiki/Preventive_healthcare),
