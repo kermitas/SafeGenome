@@ -11,8 +11,8 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 | [Veritas myGenome](https://www.veritasgenetics.com/mygenome#sec-2) | [veritasgenetics.com](http://www.veritasgenetics.com) | yes/no | yes | 999 USD | |
 | [Understand Your Genome (UYG)](https://twitter.com/antonioregalado/status/717475803529871361) | [www.illumina.com](http://www.illumina.com/) | yes/no | yes | 2900 USD | [pendrive was send back](http://www.govtech.com/question-of-the-day/Question-of-the-Day-for-10162015.html) with genome and analysis |
 | [myBRCA](https://www.veritasgenetics.com/mybrca#sec-1) | [veritasgenetics.com](http://www.veritasgenetics.com) | no/yes | yes | 199 USD | |
-| [Full DNA Sequencing](http://www.suregenomics.com/contact/pre-register/) | [suregenomics.com](http://www.suregenomics.com) | yes/no | yes | 2500 USD | |
-| [Whole Genome Sequencing (WGS)](http://www.quickbiology.com/ngs-services/whole-genome-sequencing-wgs-service) | [quickbiology.com](http://www.quickbiology.com) | yes/no | yes | 1550 USD | more of their products [here](http://www.quickbiology.com/ngs-services/next-generation-sequencing-ngs-service) |
+| [Full DNA Sequencing](http://www.suregenomics.com/contact/pre-register/) | [suregenomics.com](http://www.suregenomics.com) | yes/no | yes | 2500 USD | for U.S. citizens only; customer needs to meet with physician first; planned start: summer 2016; FASTQ, BAM and VCF(S) files are stored in SureVAULT (from where can be accessed from PC or mobile device) |
+| [Whole Genome Sequencing (WGS)](http://www.quickbiology.com/ngs-services/whole-genome-sequencing-wgs-service) | [quickbiology.com](http://www.quickbiology.com) | yes/no | yes | 1550 USD | more of their products [here](http://www.quickbiology.com/ngs-services/next-generation-sequencing-ngs-service); FASTQ (.fastq, ~20-30GB) file will be delivered on a hard drive; service available worldwide; saliva and the genome will be removed right after finishing of the service |
 | [Your Coloured Genome](https://genoomy.com/navbar/howitworks/) | [genoomy.com](http://www.genoomy.com) | no/no | yes | 19 USD | |
 | [23andMe](https://www.23andme.com/) | [23andme.com](http://www.23andme.com) | no/yes | yes | 149 USD | |
 | [DNA Ancestry](http://dna.ancestry.com/) | [ancestry.com](http://www.ancestry.com) | no/yes | yes | 135 EUR | |
@@ -20,6 +20,7 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 | [Y-DNA Ancestry Tests](https://www.familytreedna.com/y-dna-compare.aspx) | [familytreedna.com](http://www.familytreedna.com) | no/yes | yes | 169 USD | more of their products [here](https://www.familytreedna.com/products.aspx?ty=1335&utm_source=learningcenter&utm_medium=banner&utm_term=ff-mtfull&utm_campaign=mtfull#/SelectAProduct) |
 | [mtDNA Ancestry Tests](https://www.familytreedna.com/mt-dna-compare.aspx) | [familytreedna.com](http://www.familytreedna.com) | no/yes | yes | 199 USD | more of their products [here](https://www.familytreedna.com/products.aspx?ty=1335&utm_source=learningcenter&utm_medium=banner&utm_term=ff-mtfull&utm_campaign=mtfull#/SelectAProduct) |
 | [Personal genetic analysis](http://www.geneplanet.com/personal-genetic-analysis.html) | [geneplanet.com](http://www.geneplanet.com) | no/yes | yes | 499 EUR | |
-| [(PL) Sekwencjonowanie DNA plazmidowego lub produktu PCR](http://www.genomed.pl/index.php/pl/sekwencjonowanie) | [genomed.pl](http://www.genomed.pl/) | no/yes | yes | 28 - 712 PLN | |
+| [(PL) Sekwencjonowanie DNA plazmidowego lub produktu PCR](http://www.genomed.pl/index.php/pl/sekwencjonowanie) | [genomed.pl](http://www.genomed.pl/) | no/yes | yes | 28 - 712 PLN | genome full scann price: 12000 PLN, customer needs to meet with physician first |
 
+---------------------------------------
 ![SafeGenome logo](https://raw.githubusercontent.com/kermitas/SafeGenome/master/documentation/media/logo/SafeGenome.png)
