@@ -8,4 +8,5 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 - [SureVAULT](http://www.suregenomics.com/),
 - ...
 
+---------------------------------------
 ![SafeGenome logo](https://raw.githubusercontent.com/kermitas/SafeGenome/master/documentation/media/logo/SafeGenome.png)
