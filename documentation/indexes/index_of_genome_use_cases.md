@@ -21,4 +21,5 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 - [personalized medicine](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3128266/), [preventive healthcare](https://en.wikipedia.org/wiki/Preventive_healthcare),
 - ...
 
+---------------------------------------
 ![SafeGenome logo](https://raw.githubusercontent.com/kermitas/SafeGenome/master/documentation/media/logo/SafeGenome.png)
