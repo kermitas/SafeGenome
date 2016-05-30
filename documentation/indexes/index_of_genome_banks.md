@@ -6,7 +6,7 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 
 [Genome](https://en.wikipedia.org/wiki/Genome) banks:
 
-| website | can files be uploaded | can files be downloaded | additional info |
+| website | can genome files be uploaded | can genome files be downloaded | additional info |
 | :---: | :---: | :---: | :---: |
 | [SureVAULT](http://www.suregenomics.com/) | no | yes | the service is connected with [SureDNA](http://www.suregenomics.com/) (the whole genome sequencing service) |
 
