@@ -11,6 +11,6 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 | [SureVAULT](http://www.suregenomics.com/) | no | yes | |
 
 ---------------------------------------
-Check other indexes located at [this](https://github.com/kermitas/SafeGenome/tree/master/documentation/indexes) folder.
+Check other indexes located in [this](https://github.com/kermitas/SafeGenome/tree/master/documentation/indexes) folder.
 
 ![SafeGenome logo](https://raw.githubusercontent.com/kermitas/SafeGenome/master/documentation/media/logo/SafeGenome.png)
