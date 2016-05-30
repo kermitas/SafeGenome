@@ -8,7 +8,7 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 
 | website | can files be uploaded | can files be downloaded | additional info |
 | :---: | :---: | :---: | :---: |
-| [SureVAULT](http://www.suregenomics.com/) | no | yes | |
+| [SureVAULT](http://www.suregenomics.com/) | no | yes | the service is connected with [SureDNA](http://www.suregenomics.com/) (the whole genome sequencing service) |
 
 ---------------------------------------
 Check other indexes located in [this](https://github.com/kermitas/SafeGenome/tree/master/documentation/indexes) folder.
