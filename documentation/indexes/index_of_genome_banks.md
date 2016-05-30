@@ -5,8 +5,12 @@ This work-in-progress index was created for "[Index of genome banks](http://scal
 Thanks in advance for helping me to keep this index always up to date. Please send updates/fixes via [pull requests](https://help.github.com/articles/using-pull-requests/) or just drop me an email, [stanek.artur@gmail.com](mailto:stanek.artur@gmail.com).
 
 [Genome](https://en.wikipedia.org/wiki/Genome) banks:
-- [SureVAULT](http://www.suregenomics.com/),
-- ...
+
+| website | can files be uploaded | can files be downloaded | additional info |
+| :---: | :---: | :---: | :---: |
+| [SureVAULT](http://www.suregenomics.com/) | no | yes | |
 
 ---------------------------------------
+Check other indexes located at [this](https://github.com/kermitas/SafeGenome/tree/master/documentation/indexes) folder.
+
 ![SafeGenome logo](https://raw.githubusercontent.com/kermitas/SafeGenome/master/documentation/media/logo/SafeGenome.png)
