@@ -6,8 +6,8 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 
 | website | company | [whole genome sequencing](https://en.wikipedia.org/wiki/Whole_genome_sequencing) / other method | provide genome analysis | price | additional info |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Gene by Gene](https://www.genebygene.com) (FASTQ file) | [genebygene.com](http://www.genebygene.com) | yes/no | yes | 1095 USD | more of their products [here](https://www.genebygene.com/pages/research?goto=exome-sequencing) |
-| [Gene by Gene](https://www.genebygene.com) (FASTQ, BAM, VCF files) | [genebygene.com](http://www.genebygene.com) | yes/no | yes | 1295 USD | more of their products [here](https://www.genebygene.com/pages/research?goto=exome-sequencing) |
+| [Gene by Gene](https://www.genebygene.com/pages/research?goto=exome-sequencing) (FASTQ file) | [genebygene.com](http://www.genebygene.com) | yes/no | yes | 1095 USD | find more [here](https://www.genebygene.com/pages/research?goto=exome-sequencing) |
+| [Gene by Gene](https://www.genebygene.com/pages/research?goto=exome-sequencing) (FASTQ, BAM, VCF files) | [genebygene.com](http://www.genebygene.com) | yes/no | yes | 1295 USD | find more [here](https://www.genebygene.com/pages/research?goto=exome-sequencing) |
 | [Veritas myGenome](https://www.veritasgenetics.com/mygenome#sec-2) | [veritasgenetics.com](http://www.veritasgenetics.com) | yes/no | yes | 999 USD | |
 | [Understand Your Genome (UYG)](https://twitter.com/antonioregalado/status/717475803529871361) | [www.illumina.com](http://www.illumina.com/) | yes/no | yes | 2900 USD | [pendrive was send back](http://www.govtech.com/question-of-the-day/Question-of-the-Day-for-10162015.html) with genome and analysis |
 | [myBRCA](https://www.veritasgenetics.com/mybrca#sec-1) | [veritasgenetics.com](http://www.veritasgenetics.com) | no/yes | yes | 199 USD | |
