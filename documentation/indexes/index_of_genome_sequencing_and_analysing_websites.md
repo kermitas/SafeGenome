@@ -22,6 +22,7 @@ Thanks in advance for helping me to keep this index always up to date. Please se
 | [mtDNA Ancestry Tests](https://www.familytreedna.com/mt-dna-compare.aspx) | [familytreedna.com](http://www.familytreedna.com) | no/yes | yes | 199 USD | more of their products [here](https://www.familytreedna.com/products.aspx?ty=1335&utm_source=learningcenter&utm_medium=banner&utm_term=ff-mtfull&utm_campaign=mtfull#/SelectAProduct) |
 | [Personal genetic analysis](http://www.geneplanet.com/personal-genetic-analysis.html) | [geneplanet.com](http://www.geneplanet.com) | no/yes | yes | 499 EUR | |
 | [(PL) Sekwencjonowanie DNA plazmidowego lub produktu PCR](http://www.genomed.pl/index.php/pl/sekwencjonowanie) | [genomed.pl](http://www.genomed.pl/) | no/yes | yes | 28 - 712 PLN | genome full scann price: 12000 PLN, customer needs to meet with physician first; coverage 30x; FASTQ, BAM and VCF file will be delivered on a hard drive with USB interface |
+| [Genos](https://www.genosresearch.com/) | [genosresearch.com](https://www.genosresearch.com/) | yes/no | yes | 399 USD | Focus on data ownership and exploration. |
 
 ---------------------------------------
 Check other indexes located in [this](https://github.com/kermitas/SafeGenome/tree/master/documentation/indexes) folder.
